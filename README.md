@@ -1,0 +1,1 @@
+This is some code that was developed in collaboration with Mosi Secret to try to find relevant tweets from activists in Ferguson who are now deceased. It relies on tweet datasets that are available at MITH.
